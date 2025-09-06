@@ -9,7 +9,7 @@
 
 ## 🌐 Where to find me
 - 📧 Email: gamear30@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-medeiros-araujo/) 
+- 🔗 Linkedin: [LinkedIn](https://www.linkedin.com/in/gabriel-medeiros-araujo/) 
 
 ---
 
