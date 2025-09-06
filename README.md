@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Gabriel
 
-<!--
-**G4br1el22/G4br1el22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at **IMT**  
+💻 Interests: **Web Development, Cybersecurity, and Information Engineering**  
+📚 Currently learning: **HTML, CSS, JavaScript, and Git**  
+🚀 Goal: to work in the **cybersecurity** field 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Where to find me
+- 📧 Email: gamear30@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-medeiros-araujo/) 
+
+---
+
+## 🛠️ Technologies I'm learning
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Python (soon)
+
+---
+
+📖 Always looking to learn and grow in the tech field!
