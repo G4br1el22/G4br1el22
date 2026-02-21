@@ -16,7 +16,7 @@
 ## 🛠️ Technologies I'm learning
 - HTML, CSS, JavaScript
 - Git & GitHub
-- Python (soon)
+- Python, Java
 
 ---
 
