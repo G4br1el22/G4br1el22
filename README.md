@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gabriel
 
 🎓 Computer Science student at **IMT**  
-💻 Interests: **Web Development, Cybersecurity, and Information Engineering**  
-📚 Currently learning: **HTML, CSS, JavaScript, and Git**  
+💻 Interests: **Cybersecurity & Pentesting**  
+📚 Currently learning: **Python, Java, Linux and Linux Tools**  
 🚀 Goal: to work in the **cybersecurity** field 
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Technologies I'm learning
+## 🛠️ Technologies
 - HTML, CSS, JavaScript
 - Git & GitHub
 - Python, Java
