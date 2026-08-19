@@ -17,6 +17,7 @@
 - HTML, CSS, JavaScript
 - Git & GitHub
 - Python, Java
+- Dart, Flutter
 
 ---
 
